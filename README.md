@@ -340,10 +340,6 @@ zig build example
 ./zig-out/bin/lz4_example
 ```
 
-## License
-
-Choose your preferred license (MIT, Apache-2.0, etc.)
-
 ## Contributing
 
 Contributions welcome! Please ensure all tests pass before submitting PRs.
