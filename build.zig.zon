@@ -1,0 +1,7 @@
+.{
+    .name = .ziglz4,
+    .version = "0.1.0",
+    .paths = .{""},
+    .dependencies = .{},
+    .fingerprint = 0x9c01020fd73d5a29,
+}
