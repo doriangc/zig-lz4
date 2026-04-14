@@ -1,11 +1,12 @@
 .{
-    .name = "zig-lz4",
+    .name = .ziglz4,
+    .fingerprint = 0x9c01020f2d958aaf,
     .version = "0.1.1",
     .dependencies = .{
         .lz4 = .{
             .url = "https://github.com/lz4/lz4/archive/refs/tags/v1.9.4.tar.gz",
             .hash = "1220a9e5107eca3349d0574dc01d6c270884052bbaf397d54b8458f22d57aaef9979",
-        }
+        },
     },
     .paths = .{
         "src",
